@@ -175,15 +175,15 @@
   },
   {
     "name": "lobsterai",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "author": "cph",
     "label": {
       "en": "LobsterAI",
       "zh": "LobsterAI"
     },
-    "published_at": "2026-10-15",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/lobsterai-v0.2.0/lobsterai-0.2.0.cphplugin",
-    "sha256": "5e379669d9a346ecd9a9b7a9fc59c7e4c9ef450e8815c528920c89e33a4ce5a5"
+    "published_at": "2026-10-25",
+    "download_url": "https://github.com/yr518/clawplugins/releases/download/lobsterai-v0.2.1/lobsterai-0.2.1.cphplugin",
+    "sha256": "6ac0f64fc7393f9ecd7329d7687d525cf4bccc0752c2f192d1236b677d3856b0"
   },
   {
     "name": "loomy",
