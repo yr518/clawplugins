@@ -127,15 +127,15 @@
   },
   {
     "name": "gorkcli",
-    "version": "0.2.1",
+    "version": "0.2.2",
     "author": "cph",
     "label": {
       "en": "Grok CLI",
       "zh": "Grok CLI"
     },
-    "published_at": "2026-10-24",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/gorkcli-v0.2.1/gorkcli-0.2.1.cphplugin",
-    "sha256": "8835d88bcd971e3d81320845802eb4f845664072131f5c0f5c1b2bd8c38ce6e6"
+    "published_at": "2026-10-28",
+    "download_url": "https://github.com/yr518/clawplugins/releases/download/gorkcli-v0.2.2/gorkcli-0.2.2.cphplugin",
+    "sha256": "2bbc7d4745e2d9cf9164766b77dc400bf913caa9a5da6dc4a924d8b582309afa"
   },
   {
     "name": "ima",
