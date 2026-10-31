@@ -26,15 +26,15 @@
   },
   {
     "name": "cline",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "author": "cph",
     "label": {
       "en": "Cline",
       "zh": "Cline"
     },
-    "published_at": "2026-10-16",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/cline-v0.2.0/cline-0.2.0.cphplugin",
-    "sha256": "0648e422b12c7c3fee38bca40adca91561b472c71f4d5f0a6eb34eb315a83d8a"
+    "published_at": "2026-11-01",
+    "download_url": "https://github.com/yr518/clawplugins/releases/download/cline-v0.2.1/cline-0.2.1.cphplugin",
+    "sha256": "f580e6beee850a6977c384a115e41a2227a002f8c3ca7bf1d0ff18c3b1e862d4"
   },
   {
     "name": "cnb",
@@ -127,15 +127,15 @@
   },
   {
     "name": "gorkcli",
-    "version": "0.2.2",
+    "version": "0.2.3",
     "author": "cph",
     "label": {
       "en": "Grok CLI",
       "zh": "Grok CLI"
     },
-    "published_at": "2026-10-28",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/gorkcli-v0.2.2/gorkcli-0.2.2.cphplugin",
-    "sha256": "2bbc7d4745e2d9cf9164766b77dc400bf913caa9a5da6dc4a924d8b582309afa"
+    "published_at": "2026-11-01",
+    "download_url": "https://github.com/yr518/clawplugins/releases/download/gorkcli-v0.2.3/gorkcli-0.2.3.cphplugin",
+    "sha256": "bf2e506ca906116b1ded996f23e10ab0258fa2e144027d68a7a19a7f7d3ca5ae"
   },
   {
     "name": "ima",
@@ -175,15 +175,15 @@
   },
   {
     "name": "lobsterai",
-    "version": "0.2.2",
+    "version": "0.2.3",
     "author": "cph",
     "label": {
       "en": "LobsterAI",
       "zh": "LobsterAI"
     },
-    "published_at": "2026-10-25",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/lobsterai-v0.2.2/lobsterai-0.2.2.cphplugin",
-    "sha256": "9f067cc6d5f0464226aa2082e661259b8e6f8e74832b733fc7a0fa9f8f28f2a1"
+    "published_at": "2026-11-01",
+    "download_url": "https://github.com/yr518/clawplugins/releases/download/lobsterai-v0.2.3/lobsterai-0.2.3.cphplugin",
+    "sha256": "652fec50bef79961631691f15d8c019d9b5529618da1c455cedeeb9b25bfd5f1"
   },
   {
     "name": "loomy",
@@ -247,15 +247,15 @@
   },
   {
     "name": "opencode",
-    "version": "0.1.7",
+    "version": "0.1.8",
     "author": "cph",
     "label": {
       "en": "OpenCode",
       "zh": "OpenCode"
     },
-    "published_at": "2026-10-26",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/opencode-v0.1.7/opencode-0.1.7.cphplugin",
-    "sha256": "1c3e81a05219c13d95a94991f0742f7d5871cce3fbf2a7db4a2abb6ebeadc2f1"
+    "published_at": "2026-11-01",
+    "download_url": "https://github.com/yr518/clawplugins/releases/download/opencode-v0.1.8/opencode-0.1.8.cphplugin",
+    "sha256": "4af9a886912200abd04c42c13e46eabe761fbc4ab01bf2e8e65cd8c20241acc3"
   },
   {
     "name": "postman",
@@ -295,15 +295,15 @@
   },
   {
     "name": "raccoon",
-    "version": "0.2.3",
+    "version": "0.2.4",
     "author": "cph",
     "label": {
       "en": "Raccoon",
       "zh": "Raccoon"
     },
-    "published_at": "2026-10-27",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/raccoon-v0.2.3/raccoon-0.2.3.cphplugin",
-    "sha256": "cb9b4be099e7a046823b2c741d6539f5e6c5d540cfd46f8b984b8ed9401ade06"
+    "published_at": "2026-11-01",
+    "download_url": "https://github.com/yr518/clawplugins/releases/download/raccoon-v0.2.4/raccoon-0.2.4.cphplugin",
+    "sha256": "68b2f13cf726277ec665f4fc87087b3f7967d6d40601934b7259a63f38138c05"
   },
   {
     "name": "todofor",
