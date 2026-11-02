@@ -210,6 +210,18 @@
     "sha256": ""
   },
   {
+    "name": "minimax",
+    "version": "0.1.0",
+    "author": "cph",
+    "label": {
+      "en": "MiniMax Audio",
+      "zh": "MiniMax Audio"
+    },
+    "published_at": "2026-11-02",
+    "download_url": "https://github.com/yr518/clawplugins/releases/download/minimax-v0.1.0/minimax-0.1.0.cphplugin",
+    "sha256": "30dae274858d31f761210137f209bc272f39b79088f4662c8d1087f3c4cc96aa"
+  },
+  {
     "name": "mirasim",
     "version": "0.1.3",
     "author": "cph",
