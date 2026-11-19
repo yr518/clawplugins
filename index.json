@@ -103,15 +103,15 @@
   },
   {
     "name": "deepai",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "author": "cph",
     "label": {
       "en": "DeepAI Code",
       "zh": "DeepAI Code"
     },
-    "published_at": "2026-11-18",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/deepai-v0.1.1/deepai-0.1.1.cphplugin",
-    "sha256": "20a19bbf14f255cb1c7d7e5a0b13e6bb8566422e0badec3e4b67e1321f16c4a8"
+    "published_at": "2026-11-19",
+    "download_url": "https://github.com/yr518/clawplugins/releases/download/deepai-v0.1.2/deepai-0.1.2.cphplugin",
+    "sha256": "9261f8366af5ad038f0a8061f6c1fbcc61ecc5dabda92b943ad19185e6afdda6"
   },
   {
     "name": "devin",
