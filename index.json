@@ -223,15 +223,15 @@
   },
   {
     "name": "minimax",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "author": "cph",
     "label": {
       "en": "MiniMax Audio",
       "zh": "MiniMax Audio"
     },
-    "published_at": "2026-11-02",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/minimax-v0.1.0/minimax-0.1.0.cphplugin",
-    "sha256": "30dae274858d31f761210137f209bc272f39b79088f4662c8d1087f3c4cc96aa"
+    "published_at": "2026-11-21",
+    "download_url": "https://github.com/yr518/clawplugins/releases/download/minimax-v0.1.1/minimax-0.1.1.cphplugin",
+    "sha256": "b3d8d9ca4f2203003ef164d977f28957a957c93122bbcb120400f735bcfa34c6"
   },
   {
     "name": "mirasim",
@@ -367,15 +367,15 @@
   },
   {
     "name": "workbuddy",
-    "version": "0.2.2",
+    "version": "0.2.3",
     "author": "cph",
     "label": {
       "en": "WorkBuddy",
       "zh": "WorkBuddy"
     },
-    "published_at": "2026-11-01",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/workbuddy-v0.2.2/workbuddy-0.2.2.cphplugin",
-    "sha256": "6ef6ff5d853c9177a3965fdf1473a118b87ef2200b04052314a000a32a81b2e6"
+    "published_at": "2026-11-21",
+    "download_url": "https://github.com/yr518/clawplugins/releases/download/workbuddy-v0.2.3/workbuddy-0.2.3.cphplugin",
+    "sha256": "78aeb175b8683f7605c661771d6669f97ffe80dc75e214ab0e7a1d1dff1d904e"
   },
   {
     "name": "zcode",
