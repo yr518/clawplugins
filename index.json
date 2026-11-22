@@ -78,15 +78,15 @@
  },
  {
   "name": "codar",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "author": "cph",
   "label": {
    "en": "Codar",
    "zh": "Codar"
   },
   "published_at": "2026-11-23",
-  "download_url": "https://github.com/yr518/clawplugins/releases/download/codar-v0.1.2/codar-0.1.2.cphplugin",
-  "sha256": "2ce29202b4b4e1afaea03ed4834fb310e628dab32a1629af21394144990fbc6c"
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/codar-v0.1.3/codar-0.1.3.cphplugin",
+  "sha256": "1585c99dd3563c3dd84ce87afed027bb8d0e992cf41696713987d728deefa845"
  },
  {
   "name": "codearts",
