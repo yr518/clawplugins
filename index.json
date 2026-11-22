@@ -8,8 +8,8 @@
       "zh": "AtomCode"
     },
     "published_at": "2026-11-21",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/atomcode-v0.1.0/atomcode-0.1.0.cphplugin",
-    "sha256": "30c5f9c24cd28d62581b2193026faae79d7ee597f31660592e0fb796f2d47db9"
+    "download_url": "https://github.com/yr518/clawplugins/releases/download/atomcode-v0.1.1/atomcode-0.1.1.cphplugin",
+    "sha256": "18f928eddc20cc0f964da815c5333f149ee866c6361c50a0946debf6f5377c05"
   },
   {
     "name": "autoclaw",
