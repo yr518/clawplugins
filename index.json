@@ -13,15 +13,15 @@
  },
  {
   "name": "autoclaw",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "author": "cph",
   "label": {
    "en": "AutoClaw",
    "zh": "AutoClaw"
   },
   "published_at": "2026-11-22",
-  "download_url": "https://github.com/yr518/clawplugins/releases/download/autoclaw-v0.2.1/autoclaw-0.2.1.cphplugin",
-  "sha256": "73277581cc9b098d4123c7aa36576e943ebbdaf2e5a27250e5948481a0bae31b"
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/autoclaw-v0.2.2/autoclaw-0.2.2.cphplugin",
+  "sha256": "4d63358434657aa0621ead4602a449c845c8687d280179e1c1fca51e0b410a9b"
  },
  {
   "name": "chatjimmy",
