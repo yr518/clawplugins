@@ -1,415 +1,415 @@
 [
-  {
-    "name": "atomcode",
-    "version": "0.1.1",
-    "author": "cph",
-    "label": {
-      "en": "AtomCode",
-      "zh": "AtomCode"
-    },
-    "published_at": "2026-11-21",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/atomcode-v0.1.1/atomcode-0.1.1.cphplugin",
-    "sha256": "18f928eddc20cc0f964da815c5333f149ee866c6361c50a0946debf6f5377c05"
+ {
+  "name": "atomcode",
+  "version": "0.1.1",
+  "author": "cph",
+  "label": {
+   "en": "AtomCode",
+   "zh": "AtomCode"
   },
-  {
-    "name": "autoclaw",
-    "version": "0.2.0",
-    "author": "cph",
-    "label": {
-      "en": "AutoClaw",
-      "zh": "AutoClaw"
-    },
-    "published_at": "2026-11-22",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/autoclaw-v0.2.1/autoclaw-0.2.1.cphplugin",
-    "sha256": "73277581cc9b098d4123c7aa36576e943ebbdaf2e5a27250e5948481a0bae31b"
+  "published_at": "2026-11-21",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/atomcode-v0.1.1/atomcode-0.1.1.cphplugin",
+  "sha256": "18f928eddc20cc0f964da815c5333f149ee866c6361c50a0946debf6f5377c05"
+ },
+ {
+  "name": "autoclaw",
+  "version": "0.2.1",
+  "author": "cph",
+  "label": {
+   "en": "AutoClaw",
+   "zh": "AutoClaw"
   },
-  {
-    "name": "chatjimmy",
-    "version": "0.1.4",
-    "author": "cph",
-    "label": {
-      "en": "ChatJimmy",
-      "zh": "ChatJimmy"
-    },
-    "published_at": "2026-11-18",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/chatjimmy-v0.1.4/chatjimmy-0.1.4.cphplugin",
-    "sha256": "7878a14a68f7891187cb03f6ffa71207f29dd7fa2c201bacb6a937cb3090e75d"
+  "published_at": "2026-11-22",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/autoclaw-v0.2.1/autoclaw-0.2.1.cphplugin",
+  "sha256": "73277581cc9b098d4123c7aa36576e943ebbdaf2e5a27250e5948481a0bae31b"
+ },
+ {
+  "name": "chatjimmy",
+  "version": "0.1.4",
+  "author": "cph",
+  "label": {
+   "en": "ChatJimmy",
+   "zh": "ChatJimmy"
   },
-  {
-    "name": "cline",
-    "version": "0.2.1",
-    "author": "cph",
-    "label": {
-      "en": "Cline",
-      "zh": "Cline"
-    },
-    "published_at": "2026-11-01",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/cline-v0.2.1/cline-0.2.1.cphplugin",
-    "sha256": "f580e6beee850a6977c384a115e41a2227a002f8c3ca7bf1d0ff18c3b1e862d4"
+  "published_at": "2026-11-18",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/chatjimmy-v0.1.4/chatjimmy-0.1.4.cphplugin",
+  "sha256": "7878a14a68f7891187cb03f6ffa71207f29dd7fa2c201bacb6a937cb3090e75d"
+ },
+ {
+  "name": "cline",
+  "version": "0.2.1",
+  "author": "cph",
+  "label": {
+   "en": "Cline",
+   "zh": "Cline"
   },
-  {
-    "name": "cnb",
-    "version": "0.1.0",
-    "author": "cph",
-    "label": {
-      "en": "CNB",
-      "zh": "CNB"
-    },
-    "published_at": "2026-10-10",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/cnb-v0.1.0/cnb-0.1.0.cphplugin",
-    "sha256": "",
-    "platforms": {
-      "windows": [
-        "amd64"
-      ],
-      "linux": [
-        "amd64",
-        "arm64"
-      ],
-      "darwin": [
-        "amd64",
-        "arm64"
-      ],
-      "android": [
-        "arm64-v8a"
-      ]
-    },
-    "protocol_version": 2
+  "published_at": "2026-11-01",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/cline-v0.2.1/cline-0.2.1.cphplugin",
+  "sha256": "f580e6beee850a6977c384a115e41a2227a002f8c3ca7bf1d0ff18c3b1e862d4"
+ },
+ {
+  "name": "cnb",
+  "version": "0.1.0",
+  "author": "cph",
+  "label": {
+   "en": "CNB",
+   "zh": "CNB"
   },
-  {
-    "name": "codar",
-    "version": "0.1.1",
-    "author": "cph",
-    "label": {
-      "en": "Codar",
-      "zh": "Codar"
-    },
-    "published_at": "2026-11-22",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/codar-v0.1.1/codar-0.1.1.cphplugin",
-    "sha256": "d1b0ebd71d79e72eaff2ba003e2a98f0c43c8fa6535d8dc274d18e96c38f8ac0"
+  "published_at": "2026-10-10",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/cnb-v0.1.0/cnb-0.1.0.cphplugin",
+  "sha256": "",
+  "platforms": {
+   "windows": [
+    "amd64"
+   ],
+   "linux": [
+    "amd64",
+    "arm64"
+   ],
+   "darwin": [
+    "amd64",
+    "arm64"
+   ],
+   "android": [
+    "arm64-v8a"
+   ]
   },
-  {
-    "name": "codearts",
-    "version": "0.1.2",
-    "author": "cph",
-    "label": {
-      "en": "CodeArts",
-      "zh": "CodeArts"
-    },
-    "published_at": "2026-10-04",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/codearts-v0.1.2/codearts-0.1.2.cphplugin",
-    "sha256": ""
+  "protocol_version": 2
+ },
+ {
+  "name": "codar",
+  "version": "0.1.1",
+  "author": "cph",
+  "label": {
+   "en": "Codar",
+   "zh": "Codar"
   },
-  {
-    "name": "codebuff",
-    "version": "0.1.3",
-    "author": "cph",
-    "label": {
-      "en": "Codebuff",
-      "zh": "Codebuff"
-    },
-    "published_at": "2026-10-04",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/codebuff-v0.1.3/codebuff-0.1.3.cphplugin",
-    "sha256": ""
+  "published_at": "2026-11-22",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/codar-v0.1.1/codar-0.1.1.cphplugin",
+  "sha256": "d1b0ebd71d79e72eaff2ba003e2a98f0c43c8fa6535d8dc274d18e96c38f8ac0"
+ },
+ {
+  "name": "codearts",
+  "version": "0.1.2",
+  "author": "cph",
+  "label": {
+   "en": "CodeArts",
+   "zh": "CodeArts"
   },
-  {
-    "name": "commandcode",
-    "version": "0.1.4",
-    "author": "cph",
-    "label": {
-      "en": "Command Code",
-      "zh": "Command Code"
-    },
-    "published_at": "2026-10-04",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/commandcode-v0.1.4/commandcode-0.1.4.cphplugin",
-    "sha256": ""
+  "published_at": "2026-10-04",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/codearts-v0.1.2/codearts-0.1.2.cphplugin",
+  "sha256": ""
+ },
+ {
+  "name": "codebuff",
+  "version": "0.1.3",
+  "author": "cph",
+  "label": {
+   "en": "Codebuff",
+   "zh": "Codebuff"
   },
-  {
-    "name": "deepai",
-    "version": "0.1.2",
-    "author": "cph",
-    "label": {
-      "en": "DeepAI Code",
-      "zh": "DeepAI Code"
-    },
-    "published_at": "2026-11-19",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/deepai-v0.1.2/deepai-0.1.2.cphplugin",
-    "sha256": "9261f8366af5ad038f0a8061f6c1fbcc61ecc5dabda92b943ad19185e6afdda6"
+  "published_at": "2026-10-04",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/codebuff-v0.1.3/codebuff-0.1.3.cphplugin",
+  "sha256": ""
+ },
+ {
+  "name": "commandcode",
+  "version": "0.1.4",
+  "author": "cph",
+  "label": {
+   "en": "Command Code",
+   "zh": "Command Code"
   },
-  {
-    "name": "devin",
-    "version": "0.1.1",
-    "author": "cph",
-    "label": {
-      "en": "Devin",
-      "zh": "Devin"
-    },
-    "published_at": "2026-10-04",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/devin-v0.1.1/devin-0.1.1.cphplugin",
-    "sha256": ""
+  "published_at": "2026-10-04",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/commandcode-v0.1.4/commandcode-0.1.4.cphplugin",
+  "sha256": ""
+ },
+ {
+  "name": "deepai",
+  "version": "0.1.2",
+  "author": "cph",
+  "label": {
+   "en": "DeepAI Code",
+   "zh": "DeepAI Code"
   },
-  {
-    "name": "doubao",
-    "version": "0.1.4",
-    "author": "cph",
-    "label": {
-      "en": "Doubao",
-      "zh": "豆包"
-    },
-    "published_at": "2026-10-05",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/doubao-v0.1.4/doubao-0.1.4.cphplugin",
-    "sha256": ""
+  "published_at": "2026-11-19",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/deepai-v0.1.2/deepai-0.1.2.cphplugin",
+  "sha256": "9261f8366af5ad038f0a8061f6c1fbcc61ecc5dabda92b943ad19185e6afdda6"
+ },
+ {
+  "name": "devin",
+  "version": "0.1.1",
+  "author": "cph",
+  "label": {
+   "en": "Devin",
+   "zh": "Devin"
   },
-  {
-    "name": "gorkcli",
-    "version": "0.2.4",
-    "author": "cph",
-    "label": {
-      "en": "Grok CLI",
-      "zh": "Grok CLI"
-    },
-    "published_at": "2026-11-01",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/gorkcli-v0.2.4/gorkcli-0.2.4.cphplugin",
-    "sha256": "1bae8d84a5cc56394fae877105652403a8643e9238ed133aca59939e7c068a57"
+  "published_at": "2026-10-04",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/devin-v0.1.1/devin-0.1.1.cphplugin",
+  "sha256": ""
+ },
+ {
+  "name": "doubao",
+  "version": "0.1.4",
+  "author": "cph",
+  "label": {
+   "en": "Doubao",
+   "zh": "豆包"
   },
-  {
-    "name": "ima",
-    "version": "0.1.5",
-    "author": "cph",
-    "label": {
-      "en": "ima",
-      "zh": "ima"
-    },
-    "published_at": "2026-10-04",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/ima-v0.1.5/ima-0.1.5.cphplugin",
-    "sha256": ""
+  "published_at": "2026-10-05",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/doubao-v0.1.4/doubao-0.1.4.cphplugin",
+  "sha256": ""
+ },
+ {
+  "name": "gorkcli",
+  "version": "0.2.4",
+  "author": "cph",
+  "label": {
+   "en": "Grok CLI",
+   "zh": "Grok CLI"
   },
-  {
-    "name": "improvado",
-    "version": "0.1.3",
-    "author": "cph",
-    "label": {
-      "en": "Improvado",
-      "zh": "Improvado"
-    },
-    "published_at": "2026-10-04",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/improvado-v0.1.3/improvado-0.1.3.cphplugin",
-    "sha256": ""
+  "published_at": "2026-11-01",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/gorkcli-v0.2.4/gorkcli-0.2.4.cphplugin",
+  "sha256": "1bae8d84a5cc56394fae877105652403a8643e9238ed133aca59939e7c068a57"
+ },
+ {
+  "name": "ima",
+  "version": "0.1.5",
+  "author": "cph",
+  "label": {
+   "en": "ima",
+   "zh": "ima"
   },
-  {
-    "name": "joycode",
-    "version": "0.1.3",
-    "author": "cph",
-    "label": {
-      "en": "JoyCode",
-      "zh": "JoyCode"
-    },
-    "published_at": "2026-10-04",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/joycode-v0.1.3/joycode-0.1.3.cphplugin",
-    "sha256": ""
+  "published_at": "2026-10-04",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/ima-v0.1.5/ima-0.1.5.cphplugin",
+  "sha256": ""
+ },
+ {
+  "name": "improvado",
+  "version": "0.1.3",
+  "author": "cph",
+  "label": {
+   "en": "Improvado",
+   "zh": "Improvado"
   },
-  {
-    "name": "lobsterai",
-    "version": "0.2.3",
-    "author": "cph",
-    "label": {
-      "en": "LobsterAI",
-      "zh": "LobsterAI"
-    },
-    "published_at": "2026-11-01",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/lobsterai-v0.2.3/lobsterai-0.2.3.cphplugin",
-    "sha256": "652fec50bef79961631691f15d8c019d9b5529618da1c455cedeeb9b25bfd5f1"
+  "published_at": "2026-10-04",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/improvado-v0.1.3/improvado-0.1.3.cphplugin",
+  "sha256": ""
+ },
+ {
+  "name": "joycode",
+  "version": "0.1.3",
+  "author": "cph",
+  "label": {
+   "en": "JoyCode",
+   "zh": "JoyCode"
   },
-  {
-    "name": "loomy",
-    "version": "0.2.0",
-    "author": "cph",
-    "label": {
-      "en": "Loomy",
-      "zh": "Loomy"
-    },
-    "published_at": "2026-11-01",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/loomy-v0.2.0/loomy-0.2.0.cphplugin",
-    "sha256": "d87ec97c3d2710c213ec599a30ddce61ae0722674ca6f7282576324efef6210a"
+  "published_at": "2026-10-04",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/joycode-v0.1.3/joycode-0.1.3.cphplugin",
+  "sha256": ""
+ },
+ {
+  "name": "lobsterai",
+  "version": "0.2.3",
+  "author": "cph",
+  "label": {
+   "en": "LobsterAI",
+   "zh": "LobsterAI"
   },
-  {
-    "name": "mimo",
-    "version": "0.1.3",
-    "author": "cph",
-    "label": {
-      "en": "MiMo",
-      "zh": "MiMo"
-    },
-    "published_at": "2026-10-04",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/mimo-v0.1.3/mimo-0.1.3.cphplugin",
-    "sha256": ""
+  "published_at": "2026-11-01",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/lobsterai-v0.2.3/lobsterai-0.2.3.cphplugin",
+  "sha256": "652fec50bef79961631691f15d8c019d9b5529618da1c455cedeeb9b25bfd5f1"
+ },
+ {
+  "name": "loomy",
+  "version": "0.2.0",
+  "author": "cph",
+  "label": {
+   "en": "Loomy",
+   "zh": "Loomy"
   },
-  {
-    "name": "minimax",
-    "version": "0.1.1",
-    "author": "cph",
-    "label": {
-      "en": "MiniMax Audio",
-      "zh": "MiniMax Audio"
-    },
-    "published_at": "2026-11-21",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/minimax-v0.1.1/minimax-0.1.1.cphplugin",
-    "sha256": "b3d8d9ca4f2203003ef164d977f28957a957c93122bbcb120400f735bcfa34c6"
+  "published_at": "2026-11-01",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/loomy-v0.2.0/loomy-0.2.0.cphplugin",
+  "sha256": "d87ec97c3d2710c213ec599a30ddce61ae0722674ca6f7282576324efef6210a"
+ },
+ {
+  "name": "mimo",
+  "version": "0.1.3",
+  "author": "cph",
+  "label": {
+   "en": "MiMo",
+   "zh": "MiMo"
   },
-  {
-    "name": "mirasim",
-    "version": "0.1.3",
-    "author": "cph",
-    "label": {
-      "en": "Mirasim",
-      "zh": "Mirasim"
-    },
-    "published_at": "2026-10-04",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/mirasim-v0.1.3/mirasim-0.1.3.cphplugin",
-    "sha256": ""
+  "published_at": "2026-10-04",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/mimo-v0.1.3/mimo-0.1.3.cphplugin",
+  "sha256": ""
+ },
+ {
+  "name": "minimax",
+  "version": "0.1.1",
+  "author": "cph",
+  "label": {
+   "en": "MiniMax Audio",
+   "zh": "MiniMax Audio"
   },
-  {
-    "name": "newapi",
-    "version": "0.1.7",
-    "author": "cph",
-    "label": {
-      "en": "New API",
-      "zh": "New API"
-    },
-    "published_at": "2026-10-04",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/newapi-v0.1.7/newapi-0.1.7.cphplugin",
-    "sha256": ""
+  "published_at": "2026-11-21",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/minimax-v0.1.1/minimax-0.1.1.cphplugin",
+  "sha256": "b3d8d9ca4f2203003ef164d977f28957a957c93122bbcb120400f735bcfa34c6"
+ },
+ {
+  "name": "mirasim",
+  "version": "0.1.3",
+  "author": "cph",
+  "label": {
+   "en": "Mirasim",
+   "zh": "Mirasim"
   },
-  {
-    "name": "notion",
-    "version": "0.1.3",
-    "author": "cph",
-    "label": {
-      "en": "Notion AI",
-      "zh": "Notion AI"
-    },
-    "published_at": "2026-10-04",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/notion-v0.1.3/notion-0.1.3.cphplugin",
-    "sha256": ""
+  "published_at": "2026-10-04",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/mirasim-v0.1.3/mirasim-0.1.3.cphplugin",
+  "sha256": ""
+ },
+ {
+  "name": "newapi",
+  "version": "0.1.7",
+  "author": "cph",
+  "label": {
+   "en": "New API",
+   "zh": "New API"
   },
-  {
-    "name": "opencode",
-    "version": "0.1.8",
-    "author": "cph",
-    "label": {
-      "en": "OpenCode",
-      "zh": "OpenCode"
-    },
-    "published_at": "2026-11-01",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/opencode-v0.1.8/opencode-0.1.8.cphplugin",
-    "sha256": "4af9a886912200abd04c42c13e46eabe761fbc4ab01bf2e8e65cd8c20241acc3"
+  "published_at": "2026-10-04",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/newapi-v0.1.7/newapi-0.1.7.cphplugin",
+  "sha256": ""
+ },
+ {
+  "name": "notion",
+  "version": "0.1.3",
+  "author": "cph",
+  "label": {
+   "en": "Notion AI",
+   "zh": "Notion AI"
   },
-  {
-    "name": "postman",
-    "version": "0.1.3",
-    "author": "cph",
-    "label": {
-      "en": "Postman",
-      "zh": "Postman"
-    },
-    "published_at": "2026-10-04",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/postman-v0.1.3/postman-0.1.3.cphplugin",
-    "sha256": ""
+  "published_at": "2026-10-04",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/notion-v0.1.3/notion-0.1.3.cphplugin",
+  "sha256": ""
+ },
+ {
+  "name": "opencode",
+  "version": "0.1.8",
+  "author": "cph",
+  "label": {
+   "en": "OpenCode",
+   "zh": "OpenCode"
   },
-  {
-    "name": "puter",
-    "version": "0.1.3",
-    "author": "cph",
-    "label": {
-      "en": "Puter",
-      "zh": "Puter"
-    },
-    "published_at": "2026-10-04",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/puter-v0.1.3/puter-0.1.3.cphplugin",
-    "sha256": ""
+  "published_at": "2026-11-01",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/opencode-v0.1.8/opencode-0.1.8.cphplugin",
+  "sha256": "4af9a886912200abd04c42c13e46eabe761fbc4ab01bf2e8e65cd8c20241acc3"
+ },
+ {
+  "name": "postman",
+  "version": "0.1.3",
+  "author": "cph",
+  "label": {
+   "en": "Postman",
+   "zh": "Postman"
   },
-  {
-    "name": "qoder",
-    "version": "0.1.3",
-    "author": "cph",
-    "label": {
-      "en": "Qoder CN",
-      "zh": "Qoder CN"
-    },
-    "published_at": "2026-10-04",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/qoder-v0.1.3/qoder-0.1.3.cphplugin",
-    "sha256": ""
+  "published_at": "2026-10-04",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/postman-v0.1.3/postman-0.1.3.cphplugin",
+  "sha256": ""
+ },
+ {
+  "name": "puter",
+  "version": "0.1.3",
+  "author": "cph",
+  "label": {
+   "en": "Puter",
+   "zh": "Puter"
   },
-  {
-    "name": "raccoon",
-    "version": "0.2.4",
-    "author": "cph",
-    "label": {
-      "en": "Raccoon",
-      "zh": "Raccoon"
-    },
-    "published_at": "2026-11-01",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/raccoon-v0.2.4/raccoon-0.2.4.cphplugin",
-    "sha256": "68b2f13cf726277ec665f4fc87087b3f7967d6d40601934b7259a63f38138c05"
+  "published_at": "2026-10-04",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/puter-v0.1.3/puter-0.1.3.cphplugin",
+  "sha256": ""
+ },
+ {
+  "name": "qoder",
+  "version": "0.1.3",
+  "author": "cph",
+  "label": {
+   "en": "Qoder CN",
+   "zh": "Qoder CN"
   },
-  {
-    "name": "todofor",
-    "version": "0.1.3",
-    "author": "cph",
-    "label": {
-      "en": "TodoFor",
-      "zh": "TodoFor"
-    },
-    "published_at": "2026-10-04",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/todofor-v0.1.3/todofor-0.1.3.cphplugin",
-    "sha256": ""
+  "published_at": "2026-10-04",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/qoder-v0.1.3/qoder-0.1.3.cphplugin",
+  "sha256": ""
+ },
+ {
+  "name": "raccoon",
+  "version": "0.2.4",
+  "author": "cph",
+  "label": {
+   "en": "Raccoon",
+   "zh": "Raccoon"
   },
-  {
-    "name": "trae",
-    "version": "0.1.2",
-    "author": "cph",
-    "label": {
-      "en": "TRAE CN",
-      "zh": "TRAE CN"
-    },
-    "published_at": "2026-10-04",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/trae-v0.1.2/trae-0.1.2.cphplugin",
-    "sha256": ""
+  "published_at": "2026-11-01",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/raccoon-v0.2.4/raccoon-0.2.4.cphplugin",
+  "sha256": "68b2f13cf726277ec665f4fc87087b3f7967d6d40601934b7259a63f38138c05"
+ },
+ {
+  "name": "todofor",
+  "version": "0.1.3",
+  "author": "cph",
+  "label": {
+   "en": "TodoFor",
+   "zh": "TodoFor"
   },
-  {
-    "name": "warp",
-    "version": "0.1.1",
-    "author": "cph",
-    "label": {
-      "en": "Warp",
-      "zh": "Warp"
-    },
-    "published_at": "2026-10-04",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/warp-v0.1.1/warp-0.1.1.cphplugin",
-    "sha256": ""
+  "published_at": "2026-10-04",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/todofor-v0.1.3/todofor-0.1.3.cphplugin",
+  "sha256": ""
+ },
+ {
+  "name": "trae",
+  "version": "0.1.2",
+  "author": "cph",
+  "label": {
+   "en": "TRAE CN",
+   "zh": "TRAE CN"
   },
-  {
-    "name": "workbuddy",
-    "version": "0.2.3",
-    "author": "cph",
-    "label": {
-      "en": "WorkBuddy",
-      "zh": "WorkBuddy"
-    },
-    "published_at": "2026-11-21",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/workbuddy-v0.2.3/workbuddy-0.2.3.cphplugin",
-    "sha256": "78aeb175b8683f7605c661771d6669f97ffe80dc75e214ab0e7a1d1dff1d904e"
+  "published_at": "2026-10-04",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/trae-v0.1.2/trae-0.1.2.cphplugin",
+  "sha256": ""
+ },
+ {
+  "name": "warp",
+  "version": "0.1.1",
+  "author": "cph",
+  "label": {
+   "en": "Warp",
+   "zh": "Warp"
   },
-  {
-    "name": "zcode",
-    "version": "0.1.3",
-    "author": "cph",
-    "label": {
-      "en": "ZCode",
-      "zh": "ZCode"
-    },
-    "published_at": "2026-10-04",
-    "download_url": "https://github.com/yr518/clawplugins/releases/download/zcode-v0.1.3/zcode-0.1.3.cphplugin",
-    "sha256": ""
-  }
+  "published_at": "2026-10-04",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/warp-v0.1.1/warp-0.1.1.cphplugin",
+  "sha256": ""
+ },
+ {
+  "name": "workbuddy",
+  "version": "0.2.3",
+  "author": "cph",
+  "label": {
+   "en": "WorkBuddy",
+   "zh": "WorkBuddy"
+  },
+  "published_at": "2026-11-21",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/workbuddy-v0.2.3/workbuddy-0.2.3.cphplugin",
+  "sha256": "78aeb175b8683f7605c661771d6669f97ffe80dc75e214ab0e7a1d1dff1d904e"
+ },
+ {
+  "name": "zcode",
+  "version": "0.1.3",
+  "author": "cph",
+  "label": {
+   "en": "ZCode",
+   "zh": "ZCode"
+  },
+  "published_at": "2026-10-04",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/zcode-v0.1.3/zcode-0.1.3.cphplugin",
+  "sha256": ""
+ }
 ]
