@@ -342,15 +342,15 @@
  },
  {
   "name": "raccoon",
-  "version": "0.2.4",
+  "version": "0.2.6",
   "author": "cph",
   "label": {
    "en": "Raccoon",
    "zh": "Raccoon"
   },
-  "published_at": "2026-11-01",
-  "download_url": "https://github.com/yr518/clawplugins/releases/download/raccoon-v0.2.4/raccoon-0.2.4.cphplugin",
-  "sha256": "68b2f13cf726277ec665f4fc87087b3f7967d6d40601934b7259a63f38138c05"
+  "published_at": "2026-11-27",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/raccoon-v0.2.6/raccoon-0.2.6.cphplugin",
+  "sha256": "2a1453a4986811fdee0062a1b5382e54386e7e766e5a89c6ab65923ed6a43ac9"
  },
  {
   "name": "todofor",
