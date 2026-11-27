@@ -1,27 +1,27 @@
 [
  {
   "name": "atomcode",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "cph",
   "label": {
    "en": "AtomCode",
    "zh": "AtomCode"
   },
-  "published_at": "2026-11-21",
-  "download_url": "https://github.com/yr518/clawplugins/releases/download/atomcode-v0.1.1/atomcode-0.1.1.cphplugin",
-  "sha256": "18f928eddc20cc0f964da815c5333f149ee866c6361c50a0946debf6f5377c05"
+  "published_at": "2026-11-27",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/atomcode-v0.1.2/atomcode-0.1.2.cphplugin",
+  "sha256": "555740b324027d895d7581fd748f43c278d3cbb09be9c46fc074e983902973de"
  },
  {
   "name": "autoclaw",
-  "version": "0.2.2",
+  "version": "0.2.4",
   "author": "cph",
   "label": {
    "en": "AutoClaw",
    "zh": "AutoClaw"
   },
-  "published_at": "2026-11-22",
-  "download_url": "https://github.com/yr518/clawplugins/releases/download/autoclaw-v0.2.2/autoclaw-0.2.2.cphplugin",
-  "sha256": "4d63358434657aa0621ead4602a449c845c8687d280179e1c1fca51e0b410a9b"
+  "published_at": "2026-11-27",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/autoclaw-v0.2.4/autoclaw-0.2.4.cphplugin",
+  "sha256": "86a87a44e2c564dd230b801c584e231a3d55c43b8c5885da513f86869d0bfa12"
  },
  {
   "name": "chatjimmy",
@@ -37,15 +37,15 @@
  },
  {
   "name": "cline",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "author": "cph",
   "label": {
    "en": "Cline",
    "zh": "Cline"
   },
-  "published_at": "2026-11-01",
-  "download_url": "https://github.com/yr518/clawplugins/releases/download/cline-v0.2.1/cline-0.2.1.cphplugin",
-  "sha256": "f580e6beee850a6977c384a115e41a2227a002f8c3ca7bf1d0ff18c3b1e862d4"
+  "published_at": "2026-11-27",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/cline-v0.2.3/cline-0.2.3.cphplugin",
+  "sha256": "fe3157d13d069f58c4a2d66f562966527cca83c557bde449ff314c88a406ee28"
  },
  {
   "name": "cnb",
@@ -78,15 +78,15 @@
  },
  {
   "name": "codar",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "author": "cph",
   "label": {
    "en": "Codar",
    "zh": "Codar"
   },
-  "published_at": "2026-11-23",
-  "download_url": "https://github.com/yr518/clawplugins/releases/download/codar-v0.1.5/codar-0.1.5.cphplugin",
-  "sha256": "234bc49100e7cfe8eea30f1719b4dcbc332af8f5de666a700468f3aa44f1edf3"
+  "published_at": "2026-11-27",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/codar-v0.1.7/codar-0.1.7.cphplugin",
+  "sha256": "96540352e5db64872c1db5f069d5fb8a9f4f4a7429793f938d626bf556d2cacc"
  },
  {
   "name": "codearts",
@@ -126,15 +126,15 @@
  },
  {
   "name": "deepai",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "author": "cph",
   "label": {
    "en": "DeepAI Code",
    "zh": "DeepAI Code"
   },
-  "published_at": "2026-11-22",
-  "download_url": "https://github.com/yr518/clawplugins/releases/download/deepai-v0.1.3/deepai-0.1.3.cphplugin",
-  "sha256": "66c6e96d79429321f6996d9fa1de900ef1855f9c41565b1fdd1ae1d673d3f5e8"
+  "published_at": "2026-11-27",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/deepai-v0.1.4/deepai-0.1.4.cphplugin",
+  "sha256": "02c895f86f60d8fc6e3f469624d8cbacdbebea0693aa3b4bb4fe956fbf23e0f1"
  },
  {
   "name": "devin",
@@ -162,15 +162,15 @@
  },
  {
   "name": "gorkcli",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "author": "cph",
   "label": {
    "en": "Grok CLI",
    "zh": "Grok CLI"
   },
-  "published_at": "2026-11-01",
-  "download_url": "https://github.com/yr518/clawplugins/releases/download/gorkcli-v0.2.4/gorkcli-0.2.4.cphplugin",
-  "sha256": "1bae8d84a5cc56394fae877105652403a8643e9238ed133aca59939e7c068a57"
+  "published_at": "2026-11-27",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/gorkcli-v0.2.5/gorkcli-0.2.5.cphplugin",
+  "sha256": "5c565c1d8c754c9f258b810563019022dc8ff3762de06f9bbf5a241140761506"
  },
  {
   "name": "ima",
@@ -222,15 +222,15 @@
  },
  {
   "name": "loomy",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "author": "cph",
   "label": {
    "en": "Loomy",
    "zh": "Loomy"
   },
-  "published_at": "2026-11-23",
-  "download_url": "https://github.com/yr518/clawplugins/releases/download/loomy-v0.2.1/loomy-0.2.1.cphplugin",
-  "sha256": "3b743817f8d14f3b79b3beda3033b696285d82bcc61976fcb2a628959e5650a5"
+  "published_at": "2026-11-27",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/loomy-v0.2.3/loomy-0.2.3.cphplugin",
+  "sha256": "2353a68aad3dd0dce013d3edb284c96a6c56f444814fa5797dec22357a9c1880"
  },
  {
   "name": "mimo",
@@ -246,15 +246,15 @@
  },
  {
   "name": "minimax",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "author": "cph",
   "label": {
    "en": "MiniMax Audio",
    "zh": "MiniMax Audio"
   },
-  "published_at": "2026-11-21",
-  "download_url": "https://github.com/yr518/clawplugins/releases/download/minimax-v0.1.1/minimax-0.1.1.cphplugin",
-  "sha256": "b3d8d9ca4f2203003ef164d977f28957a957c93122bbcb120400f735bcfa34c6"
+  "published_at": "2026-11-27",
+  "download_url": "https://github.com/yr518/clawplugins/releases/download/minimax-v0.1.3/minimax-0.1.3.cphplugin",
+  "sha256": "271c0e2daae1fcc2ba47fd1cfee6280e4edaa97ac8fb433ecb1a51f9f90f61cd"
  },
  {
   "name": "mirasim",
